@@ -1,0 +1,3 @@
+H1,Auditorium,300,1000,8,24,true,false,null,null
+H2,Banquet Hall,100,300,8,24,true,false,null,null
+H3,Meeting Room,50,30,10,23,true,false,null,null

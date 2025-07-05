@@ -1,0 +1,5 @@
+F1,R5,yanhan@gmail.com,Phua Yan Han,toilet is smelly,In Progress,null
+F2,R1,hongjx0321@gmail.com,hong jing xin,the hall is dirty,Closed,Increase cleaning routine and schedule
+F3,R6,hongjx0321@gmail.com,Hong Jing Xin,The hall was dirty  when arrived, with unclean floors and stains on the furniture.,pending,null
+F4,R1,hongjx0321@gmail.com,asd,asd,pending,null
+F5,R1,hongjx0321@gmail.com,asd,asd,pending,null

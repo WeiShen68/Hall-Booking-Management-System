@@ -1,0 +1,15 @@
+P1,hongjx0321@gmail.com,20/08/24,50.0,hall rental,completed,R1
+P3,yanhan@gmail.com,25/08/24,200.0,hall rental,completed,R3
+P4,yanhan@gmail.com,25/08/24,400.0,hall rental,completed,R4
+P5,yanhan@gmail.com,25/08/24,500.0,reload wallet,completed,T4
+P6,yanhan@gmail.com,26/08/24,50.0,hall rental,completed,R5
+P7,hongjx0321@gmail.com,29/08/24,50.0,hall rental,completed,R6
+P8,hongjx0321@gmail.com,29/08/24,500.0,reload wallet,completed,T5
+P9,ericlwk290@gmail.com,01/09/24,500.0,reload wallet,completed,T6
+P10,tan.jimmy@gmail.com,08/09/24,500.0,reload wallet,completed,T7
+P11,hongjx0321@gmail.com,09/09/24,1500.0,hall rental,completed,R7
+P12,hongjx0321@gmail.com,09/09/24,100.0,reload wallet,completed,T8
+P13,tan.jimmy@gmail.com,09/09/24,100.0,hall rental,completed,R8
+P14,hongjx0321@gmail.com,15/09/24,150.0,hall rental,completed,R9
+P15,tan.jimmy@gmail.com,15/09/24,600.0,hall rental,completed,R10
+P16,hongjx0321@gmail.com,15/09/24,500.0,reload wallet,completed,T9

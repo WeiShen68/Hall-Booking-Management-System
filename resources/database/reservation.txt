@@ -1,0 +1,9 @@
+R1,H3,20 August 2024,11.0,1.0,12.0,fund raising,Charity Event,25,hongjx0321@gmail.com,0162706160
+R3,H2,16 August 2024,10.0,2.0,12.0,engagement,Weddings,50,yanhan@gmail.com,01224563587
+R4,H2,08 September 2024,20.0,4.0,24.0,wedding celebration,Weddings,100,yanhan@gmail.com,0122456358
+R5,H3,27 August 2024,22.0,1.0,23.0,help,Weddings,30,yanhan@gmail.com,321321321
+R6,H3,31 August 2024,11.0,1.0,12.0,java,Corporate Meetings,15,hongjx0321@gmail.com,999
+R7,H1,29 September 2024,14.0,5.0,19.0,assignment discussion,Corporate Meetings,12,hongjx0321@gmail.com,0123623785
+R8,H3,20 September 2024,13.0,2.0,15.0,general meeting,Corporate Meetings,15,tan.jimmy@gmail.com,0182489104
+R9,H3,30 September 2024,15.0,3.0,18.0,java assignment discussion,Weddings,10,hongjx0321@gmail.com,0162706160
+R10,H1,17 September 2024,10.0,2.0,12.0,graduation,Graduation Parties,100,tan.jimmy@gmail.com,0123895031

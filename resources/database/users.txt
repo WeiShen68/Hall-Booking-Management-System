@@ -1,0 +1,45 @@
+weishen1168@gmail.com,WeiShen,017-2065283,pass456,administrator,male,22,active
+hongjx0321@gmail.com,Ethan Hong,0122235803,hong123,customer,male,29,active
+ashton1733@gmail.com,AshtonChai,0123685200,ashton123,customer,male,52,active
+yanhan@gmail.com,YanHan,0122354690,han123,customer,male,19,active
+ericlwk290@gmail.com,Eric Lye,0127845214,asd123,customer,male,22,active
+tan.jimmy@gmail.com,Jimmy,0124420856,jimmy123,customer,female,20,blocked
+amywong@gmail.com,Amy,01117892203,amy123,scheduler,female,30,active
+howard.manager@gmail.com,Howard Tan,016239100,manager123,manager,male,47,active
+tomharis@gmail.com,Tom Haris,012894501,th321,scheduler,male,33,active
+chrisbrown@gmail.com,Chris Brown,0179120932,cb321,scheduler,male,20,active
+deckson.lim@gmail.com,Deckson Lim,0195802104,deckson123,customer,male,18,active
+elynleoong@gmail.com,Elyn,0123456789,elyn321,administrator,prefer not to say,21,active
+nyokki@yahoo.com,Nyokki,0133334567,nyokki321,administrator,female,21,active
+jessluv@gmail.com,Jessica,0163566477,123,customer,prefer not to say,21,blocked
+lisapink@yahoo.com,Lisa,01234569899,555,administrator,female,22,active
+josephine69@gmail.com,Josephine,0104998766,jsp123,administrator,female,24,active
+angelina@yahoo.com,Angelina,0124863579,angelina68,administrator,female,22,active
+joanna@gmail.com,Joanna,0167896001,jnna,customer,female,18,active
+rose99@gmail.com,Rose,0196351211,rose77,administrator,female,28,active
+cindy@gmail.com,Cindy,0172405810,cindy123,administrator,female,45,active
+agnes@hotmail.com,Agnes,0180256419,agnes123,customer,female,31,active
+isrealchloe@gmail.com,Chloe,0163218465,chloe520,administrator,female,21,active
+ysabell@hotmail.com,Ysabell,0160025987,ysabell123,customer,female,19,active
+kiki@gmail.com,KiKi,0120068710,kiki098,customer,female,30,active
+junmun@gmail.com,Jun Mun,0124331807,munn147,scheduler,prefer not to say,21,active
+chloe520@gmail.com,chloe,0138701406,chloe520,scheduler,female,20,active
+taylor321@gmail.com,taylor,0163200540,taylor321,scheduler,female,27,blocked
+selina@yahoo.com,Selina,01900249761,selina321,scheduler,female,27,active
+sabrina@gmail.com,Sabrina,0160783194,sabrina123,scheduler,female,25,active
+amanda@yahoo.com,Amanda,0196470537,amanda123,scheduler,female,21,active
+jasmine@hotmail.com,Jasmine,0120884367,jasmine123,manager,female,22,active
+zhixuan@gmail.com,Zhi Xuan,0167702339,zhixuan111,manager,female,21,blocked
+miko555@gmail.com,Miiko,0194520061,miko000,manager,female,22,active
+esther@hotmail.com,Esther,0123325499,esther@,scheduler,female,24,active
+felicia@hotmail.com,Felicia,01655208901,felicia333,scheduler,female,28,active
+dorothy@gmail.com,Dorothy,0183320776,6654,administrator,female,27,active
+evonne@hotmail.com,Evonne,0130025664,evonne777,scheduler,female,32,active
+alicia@hotmail.com,Alicia,0193461807,alicia111,scheduler,female,29,active
+catmeowQ@gmail.com,Catherine,0132558467,cat888,scheduler,female,36,active
+cathryn@hotmail.com,Cathryn,0165024413,cathryn333,scheduler,female,37,active
+rachel@hotmail.com,Rachel,01688479953,rachel123,scheduler,female,18,active
+eunice@gmail.com,Eunice,01922543177,baby999,scheduler,female,30,active
+jessie@hotmail.com,Jessie,0132546643,jess098,scheduler,female,42,active
+grace@hotmail.com,Grace,01755648898,grace777,scheduler,female,24,active
+izzati@gmail.com,Izzati,0134487557,izzati123,scheduler,female,42,active
